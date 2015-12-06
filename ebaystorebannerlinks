@@ -1,0 +1,144 @@
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+<STYLE>
+*{margin:0; padding:0}
+.titles { color: blue;background-color:#ccffcc; border-radius: 20px; padding: 3px 10px 3px 10px; width:96%; margin-right:auto; margin-left:auto; margin-top:3px; margin-bottom: 8px; font-size:1.6em; z-index:auto; font-family:'Tangerine', serif; font-weight:bold; } 
+
+p { color:000066;background-color:#ccffcc;border:1px blue; margin: 6px; text-align:center; font-family:'Tangerine', serif; font-weight:bold; font-size:12px;}
+
+.bodytxt{ border-radius: 25px;color:#000066;Font-style: italic;background-color:#d6d6cc; padding:10px; width:90%; margin-left: auto;margin-right:auto;}
+
+.descript{padding:10px;text-align: center;background-color:#FFFFB5}
+
+#content a {FONT-SIZE:.8em; color:blue;}
+
+#container {border:1px solid; border-radius: 25px; width:90%; margin-left:auto; margin-right: auto;
+-moz-box-shadow: 8px 8px 8px rgba(68,68,68,0.6);
+-webkit-box-shadow: 8px 8px 8px rgba(68,68,68,0.6);
+box-shadow: 8px 8px 8px rgba(68,68,68,0.6);
+filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30);
+-ms-filter: "progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30)";
+zoom: 1;}
+
+#centerrnd{border:1px solid; border-radius: 25px; width:95%; margin-left:auto; margin-right: auto;
+-moz-box-shadow: 8px 8px 8px rgba(68,68,68,0.6);
+-webkit-box-shadow: 8px 8px 8px rgba(68,68,68,0.6);
+box-shadow: 8px 8px 8px rgba(68,68,68,0.6);
+filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30);
+-ms-filter: "progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30)";
+zoom: 1;
+left-margin: auto; right-margin:auto;
+height:130px;
+width:100%;
+}
+
+#containerInternal {border:1px solid; width: 550px; border-radius: 25px; margin-right:auto; margin-left:auto; margin-top:3px; margin-bottom: 8px; 
+background-color: #ccffcc;
+-moz-box-shadow: 8px 8px 8px rgba(68,68,68,0.6);
+-webkit-box-shadow: 8px 8px 8px rgba(68,68,68,0.6);
+box-shadow: 8px 8px 8px rgba(68,68,68,0.6);
+filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30);
+-ms-filter: "progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30)";
+zoom: 1;}
+
+.btn {
+  background: #35b512;
+  background-image: -webkit-linear-gradient(top, #35b512, #02750e);
+ 
+background-image: -moz-linear-gradient(top, #35b512, #02750e);
+ 
+background-image: -ms-linear-gradient(top, #35b512, #02750e);
+ 
+background-image: -o-linear-gradient(top, #35b512, #02750e);
+ 
+background-image: linear-gradient(to bottom, #35b512, #02750e);
+  
+-webkit-border-radius: 60;
+  
+-moz-border-radius: 60;
+  
+border-radius: 60px;
+  
+text-shadow: 6px 5px 1px #666666;
+  
+font-family: Georgia;
+  color: #ffffff;
+  font-size: 12px;
+  padding: 4px 6px 5px 6px;
+ 
+border: solid #00bf13 1px;
+  text-decoration: none;
+}
+
+
+
+.btn:hover {
+  background: #3cfc8c;
+ 
+background-image: -webkit-linear-gradient(top, #3cfc8c, #1ca803);
+  
+background-image: -moz-linear-gradient(top, #3cfc8c, #1ca803);
+ 
+background-image: -ms-linear-gradient(top, #3cfc8c, #1ca803);
+  
+background-image: -o-linear-gradient(top, #3cfc8c, #1ca803);
+  
+background-image: linear-gradient(to bottom, #3cfc8c, #1ca803);
+  
+text-decoration: italic;
+}
+
+.btnMenu {background-color:#b2b2b6; height:30px;}
+
+.intText {padding: 8px 6px 6px 8px; color:blue; text-align:center;font-variant:small-caps; margin-bottom:8px;}
+
+#redn {background: #ff0000; }
+
+#redn:hover {background: #000066;}
+
+</STYLE>
+
+
+
+<DIV id=container>
+<img id=centerrnd src="http://i606.photobucket.com/albums/tt146/computersolutions/newEbayLogo.jpg" border="0" alt=" photo newEbayLogo.jpg"/>
+
+<font face=georgia>
+
+<div class="btnMenu">
+<center><a href="http://my.ebay.com/ws/eBayISAPI.dll?AcceptSavedSeller&sellerid=lotsofstufflv" class="btn"  id="redn">Sign Up!</a>
+<a href="http://stores.ebay.com/lots-of-stuff-collectibles-currency/_i.html?_sop=1&LH_BIN=1&rt=nc&_ipg=500" class="btn">Buy'em Now</A>
+<a href="http://stores.ebay.com/lots-of-stuff-collectibles-currency/Collectibles-/_i.html?LH_BIN=1&amp;_fsub=9359501013" class="btn">Collectibles?</A>
+<a href="http://stores.ebay.com/lots-of-stuff-collectibles-currency/Worlds-Fair-Exposition-Tokens-/_i.html?_fsub=9357750013" class="btn">World's Fairs Tokens</A>
+<A href="http://stores.ebay.com/lots-of-stuff-collectibles-currency/Silver-Strikes-/_i.html?_fsub=9357749013" class="btn">Casino Silver Strikes</A>
+<A href="http://stores.ebay.com/lots-of-stuff-collectibles-currency/So-Called-Dollars-/_i.html?_fsub=9357751013" class="btn">So-Called Dollars</A>
+<A href="http://stores.ebay.com/lots-of-stuff-collectibles-currency/Tokens-/_i.html?_fsub=9418976013" class="btn">Tokens</A> 
+<A href="http://stores.ebay.com/lots-of-stuff-collectibles-currency/US-Coins-/_i.html?_fsub=9357752013" class="btn" >USA Coins</A>
+<A href="http://stores.ebay.com/lots-of-stuff-collectibles-currency/World-Coins-/_i.html?_fsub=9387411013" class="btn">World Coins</A>
+<A href="http://stores.ebay.com/lots-of-stuff-collectibles-currency/World-Notes-/_i.html?_fsub=9492571013" class="btn">World Currency</A>
+ </center></div>
+
+<P  style="font-size:1.2em">Lots of Stuff Las Vegas presents this to you for your consideration and delight:</P>
+
+<DIV id=content>
+<DIV id=containerInternal>
+
+<div class="intText">Welcome to Lots of Stuff in Las Vegas</div>
+</DIV>
+<H3 class="titles" >About Us</H3>
+<DIV class=bodytxt>Lots O' Stuff LV has just this: LOTS of STUFF. After Collecting coins, currency, tokens and collectibles for better than thirty years we have decided start sharing our treasures and finds with you. Add us as a favorite and/or subscribe to our 
+
+soon to be newsletter and keep up to date on all of the latest STUFF that we list. </DIV>
+<h3 class="titles">Shipping</h3>
+<DIV class=bodytxt>We endeavor to be reasonable and accurate. Sometimes mistakes happen and we are willing to admit and work with you. We ship within a business day of receiving payment. We try to use flat rate shipping where reasonable. If you wish a 
+
+faster service please contact us at the end of the auction and before payment so we can adjust the invoice.
+<p></p> 
+WE CHARGE A FLAT RATE of $2.32 for tokens and coins. (this is to provide tracking as per eBay) and 50% discount for each additional item.&nbsp; If you do not wish&nbsp; TRACKING, email us before you pay so we can adjust the invoice.&nbsp;
+</DIV>
+
+<h3 class="titles">Payment</h3>
+<DIV class=bodytxt>As you know, PAYPAL is the only game in town</DIV>
+<h3 class="titles">Contact Us</h3>
+<DIV class=bodytxt>Contact us through eBay </DIV><br />
+<DIV></DIV></FONT>
+<DIV></DIV></FONT></DIV>
